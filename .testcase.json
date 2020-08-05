@@ -1,1 +1,1 @@
-[{"input":"1,2","output":"2","error":"err12222","priority":3,"name":"cZCZC"},{"input":"2,2","output":"4","error":"err22","priority":5,"name":"testcase2"}]
+[{"input":"1,2","output":"3","error":"err12222","priority":3,"name":"cZCZC"},{"input":"2,2","output":"4","error":"err22","priority":5,"name":"testcase2"},{"input":"3,6","output":"9","error":"error","priority":3,"name":"testcase3"}]
